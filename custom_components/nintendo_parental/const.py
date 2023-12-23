@@ -30,12 +30,6 @@ SW_CONFIGURATION_ENTITIES = {
         "name": "Suspend Software Limit",
         "value": "parental_control_settings",
     },
-    "override": {
-        "icon": "mdi:block-helper",
-        "name": "Block Device Access",
-        "value": "limit_time",
-        "enabled": False,
-    },
     "alarms_enabled": {
         "icon": "mdi:alarm",
         "name": "Alarms Enabled Today",
